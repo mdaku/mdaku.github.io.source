@@ -50,9 +50,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "mark.daku@gmail.com"
+email = "mark.daku@tcu.edu"
 phone = ""
-address = "2012 A Scharbaeur Hall, TCU"
+address = "2012A Scharbaeur Hall, TCU"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = """Wednesdays 11:00 to 12:00"""
