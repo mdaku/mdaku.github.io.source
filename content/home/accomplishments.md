@@ -1,11 +1,11 @@
 +++
-# Accomplishments widget.
+# Accomplishments widget 2.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Teaching"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,102 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Texas Christian University"
+  organization_url = "https://www.tcu.edu/"
+  title = "Quantitative Methods for Political Science"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
+  course_url = ""
+  date_start = "2019-08-24"
+  date_end = "2019-12-15"
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  organization = "Texas Christian University"
+  organization_url = "https://www.tcu.edu/"
+  title = "Introduction to African Politics"
+  url = ""
+  course_url = ""
+  date_start = "2019-08-24"
+  date_end = "2019-12-15"
+  description = ""
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Texas Christian University"
+  organization_url = "https://www.tcu.edu/"
+  title = "Scope & Methods for Political Science"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  course_url = ""
+  date_start = "2019-01-01"
+  date_end = "2019-04-30"
+  description = ""
+  
+[[item]]
+  organization = "Texas Christian University"
+  organization_url = "https://www.tcu.edu/"
+  title = "Interdisciplinary Inquiry"
+  url = ""
+  course_url = ""
+  date_start = "2018-08-01"
+  date_end = "2018-12-31"
+  description = ""
+    
+[[item]]
+  organization = "Texas Christian University"
+  organization_url = "https://www.tcu.edu/"
+  title = "Introduction to Data Science Using R"
+  url = ""
+  course_url = ""
+  date_start = "2018-08-01"
+  date_end = "2018-12-31"
   description = ""
 
+[[item]]
+  organization = "Texas Christian University"
+  organization_url = "https://www.tcu.edu/"
+  title = "Lies, Damned Lies, and Statistics"
+  url = ""
+  course_url = ""
+  date_start = "2018-01-01"
+  date_end = "2018-04-30"
+  description = ""
+
+[[item]]
+  organization = "Texas Christian University"
+  organization_url = "https://www.tcu.edu/"
+  title = "Introduction to Comparative Politics"
+  url = ""
+  course_url = ""
+  date_start = "2017-08-01"
+  date_end = "2017-12-15"
+  description = ""
+
+[[item]]
+  organization = "McGill University"
+  organization_url = "https://www.mcgill.ca/"
+  title = "Introduction to Monitoring & Evaluation for Development: Theory & Practice"
+  url = ""
+  course_url = ""
+  date_start = "2015-01-01"
+  date_end = "2015-04-30"
+  description = ""
+
+[[item]]
+  organization = "McGill University"
+  organization_url = "https://www.mcgill.ca/"
+  title = "Introduction to African Politics"
+  url = ""
+  course_url = ""
+  date_start = "2014-06-01"
+  date_end = "2014-06-01"
+  description = ""
+
+[[item]]
+  organization = "McGill University"
+  organization_url = "https://www.mcgill.ca/"
+  title = "Introduction to African Politics"
+  url = ""
+  course_url = ""
+  date_start = "2013-06-01"
+  date_end = "2013-06-01"
+  description = ""
 +++

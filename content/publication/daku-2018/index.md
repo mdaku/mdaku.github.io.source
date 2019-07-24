@@ -23,7 +23,7 @@ In this article, I argue that to better encourage ethical behaviour in research,
 "
 
 featured: true
-publication: "*BMC Medical Ethics.*"
+publication: "*BMC Medical Ethics*"
 url_pdf: "https://bmcmedethics.biomedcentral.com/track/pdf/10.1186/s12910-018-0281-6"
 ---
 
