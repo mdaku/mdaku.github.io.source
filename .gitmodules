@@ -5,3 +5,7 @@
 	path = public
 	url = https://github.com/mdaku/mdaku.github.io.git
 	branch = master
+[submodule "public/mdaku.github.io"]
+	path = public/mdaku.github.io
+	url = https://github.com/mdaku/mdaku.github.io.git
+	branch = master
